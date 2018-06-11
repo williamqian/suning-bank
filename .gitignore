@@ -1,0 +1,6 @@
+*.jtbc
+*.php
+*.bak
+jtbc.console.manage.js
+console/*
+upload/*
